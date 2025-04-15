@@ -1,1 +1,1 @@
-https://github.com/imkuate/ono-tebe-nado
+https://github.com/imkuate/ono-tebe-nado.git
